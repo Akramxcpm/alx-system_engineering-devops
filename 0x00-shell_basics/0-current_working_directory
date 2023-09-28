@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "Current working directory: $(pwd)"
+chmod u+x echo "Current working directory: $(pwd)"
+
